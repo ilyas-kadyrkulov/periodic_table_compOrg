@@ -1,0 +1,61 @@
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csprojAssemblyReference.cache
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form1.resources
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Properties.Resources.resources
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.GenerateResource.cache
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.pdb
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form2.resources
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Search.resources
+C:\Users\bobou\Documents\GitHub\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.favorit.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csprojAssemblyReference.cache
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.favorit.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form1.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form2.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Properties.Resources.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Search.resources
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.GenerateResource.cache
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.pdb
+C:\Users\Ilyas\Documents\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form1.resources
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form2.resources
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Properties.Resources.resources
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.GenerateResource.cache
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\groupproject\Periodic Table\Periodic Table\obj\Debug\Periodic Table.pdb
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form1.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Form2.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic_Table.Properties.Resources.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.GenerateResource.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\Periodic Table\obj\Debug\Periodic Table.pdb
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\bin\Debug\Periodic Table.exe.config
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\bin\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\bin\Debug\Periodic Table.pdb
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.csproj.AssemblyReference.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic_Table.Form1.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic_Table.Form2.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic_Table.Properties.Resources.resources
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.csproj.GenerateResource.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.exe
+C:\Users\Ilias\Desktop\c#project1\periodicTable\Periodic Table\periodic_table_compOrg\Periodic Table\obj\Debug\Periodic Table.pdb
