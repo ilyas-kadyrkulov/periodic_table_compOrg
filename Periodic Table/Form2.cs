@@ -16,6 +16,7 @@ namespace Periodic_Table
         {
             InitializeComponent();
             label1.Text = name;
+            label12.Text = number;
             label11.Text = atomicMass;
             label10.Text = electronConf;
             label9.Text = oxidationState;
@@ -23,36 +24,11 @@ namespace Periodic_Table
             label7.Text = sign;
             pictureBox1.ImageLocation= location;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-           
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-           
-           
-        }
-
-       
+        } 
 
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-           
-           
-
-        }
-
-       
-
-
     }
 }
