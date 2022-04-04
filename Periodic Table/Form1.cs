@@ -248,7 +248,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1797;         //ELEMENT info
             h.atomicMass = 51996;
             h.electronConf = "3d5 4s1";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Chromium.jpg/220px-Chromium.jpg";
+            h.picAddress = @"https://5.imimg.com/data5/CC/MU/MY-1102066/chromium-metal-500x500.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -278,7 +278,7 @@ namespace Periodic_Table
             h.yearDiscovered = -3500;         //ELEMENT info
             h.atomicMass = 55847;
             h.electronConf = "3d6 4s2";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/5/55/Iron_lamp.jpg";
+            h.picAddress = @"https://i.ebayimg.com/images/g/J0cAAOSw2xRYVakl/s-l300.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -338,7 +338,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1746;         //ELEMENT info
             h.atomicMass = 65390;
             h.electronConf = "3d10 4s2";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/f/f0/NatCopper.jpg";
+            h.picAddress = @"https://media.istockphoto.com/photos/small-nugget-of-zinc-on-a-white-background-picture-id155360569?k=20&m=155360569&s=170667a&w=0&h=CloYTzjtkERKL2rS7p72l0UCf6hRtx2C5p-2pVtqQzM=";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -518,7 +518,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1825;         //ELEMENT info
             h.atomicMass = 26981;
             h.electronConf = "1s2 2s2 2p6 3s2 3p1";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aluminium-4.jpg/640px-Aluminium-4.jpg";
+            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
