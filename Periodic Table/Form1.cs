@@ -60,7 +60,7 @@ namespace Periodic_Table
             h.name = "Lithium";
             h.number = 3;
             h.oxidationState = "+1";
-            h.sign = "li";
+            h.sign = "Li";
             h.yearDiscovered = 1817;
             h.atomicMass = 6.94;
             h.electronConf = "2s1";
