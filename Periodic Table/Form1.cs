@@ -27,7 +27,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1808;         //ELEMENT info
             h.atomicMass = 10811;
             h.electronConf = "1s2 2s2 2p1";
-            h.picAddress = @"https://image.spreadshirtmedia.net/image-server/v1/compositions/T1155A1PA2483PT17X17Y8D15695603FS21791Cx000000/views/1,width=650,height=650,appearanceId=1/the-element-boron-b-element-5-from-the-periodic-table-by-elementaltablecom.jpg";
+            h.picAddress = @"https://image.made-in-china.com/43f34j00KarUkEiBRgpz/High-Quality-Boron-Carbide-Powder-B4c-with-Stable-Performance.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -353,7 +353,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1868;         //ELEMENT info
             h.atomicMass = 4;
             h.electronConf = "1s2";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/f/f0/NatCopper.jpg";
+            h.picAddress = @"https://d1whtlypfis84e.cloudfront.net/guides/wp-content/uploads/2020/01/23153045/600px-Glowing_ultrapure_helium.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -398,7 +398,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1772;         //ELEMENT info
             h.atomicMass = 15999;
             h.electronConf = "1s2 2s2 2p4";
-            h.picAddress = @"https://image.spreadshirtmedia.net/image-server/v1/compositions/T141A1PA3623PT17X16Y13D15695607FS21791Cx000000/views/1,width=650,height=650,appearanceId=1/the-element-oxygen-o-element-8-from-the-periodic-table-by-elementaltablecom.jpg";
+            h.picAddress = @"https://sciencenotes.org/wp-content/uploads/2015/04/Oxygen_Tile.png";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -413,7 +413,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1772;         //ELEMENT info
             h.atomicMass = 14007;
             h.electronConf = "1s2 2s2 2p3";
-            h.picAddress = @"https://image.spreadshirtmedia.net/image-server/v1/compositions/T814A1PA3795PT17X0Y0D15695606FS16959Cx000000/views/1,width=650,height=650,appearanceId=1/the-element-nitrogen-n-element-7-from-the-periodic-table-by-elementaltablecom.jpg";
+            h.picAddress = @"https://i0.wp.com/atenciogabriel.com/wp-content/uploads/2021/02/liquidnitrogenhealthland-1.jpg?fit=600%2C400&ssl=1";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -533,7 +533,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1898;         //ELEMENT info
             h.atomicMass = 83798;
             h.electronConf = "3d10 4s2 4p6";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/f/f1/Krypton_%2836_Kr%29.jpg";
+            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Krypton-glow.jpg/600px-Krypton-glow.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
@@ -593,7 +593,7 @@ namespace Periodic_Table
             h.yearDiscovered = 1886;         //ELEMENT info
             h.atomicMass = 72630;
             h.electronConf = "1s2 2s2 2p6 3s2 3p6 3d10 4s2 4p2";
-            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/0/08/Polycrystalline-germanium.jpg";
+            h.picAddress = @"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polycrystalline-germanium.jpg/250px-Polycrystalline-germanium.jpg";
             Form2 forma = new Form2(h.name, h.atomicMass.ToString(), h.number.ToString(), h.oxidationState, h.sign, h.electronConf, h.yearDiscovered.ToString(), h.picAddress);
             forma.Show();
         }
