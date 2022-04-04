@@ -29,5 +29,9 @@
 
 ## The project still has a long way to go.
 > Only 36 elements from 0 to 36 can be seen.
+> 
 > Images in this project get downloaded through url, so please use internet :)
+> 
 > It would be better if the images were loaded into the project folder.
+
+## P.S. Reviews will be here a bit later.
