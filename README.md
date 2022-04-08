@@ -34,4 +34,4 @@
 > 
 > It would be better if the images were loaded into the project folder.
 
-## P.S. Reviews will be here a bit later.
+[![Video Review](https://smartkiss.net/wp-content/uploads/video-marketing.png)](https://youtu.be/7lwBFhWzkjM)
